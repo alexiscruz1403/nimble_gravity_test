@@ -7,8 +7,13 @@
 ![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?logo=axios&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-Internationalization-26A69A)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
 
 ![Main Menu Screenshot](./assets/screenshoots/main-menu.png)
+
+## 🌐 Live Demo
+
+https://nimble-gravity-test.vercel.app/
 
 ## 📌 Overview
 
