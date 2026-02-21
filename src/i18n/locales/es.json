@@ -1,0 +1,27 @@
+{
+    "common": {
+        "loading": "Cargando...",
+        "submit": "Enviar"
+    },
+    "home": {
+        "title": "Posiciones disponibles"
+    },
+    "jobs": {
+        "repo_placeholder": "https://github.com/tu-usuario/tu-repo"
+    },
+    "alerts": {
+        "application-error-title": "Error al enviar su postulación",
+        "application-repo-dn-exists-message": "El repositorio ingresado no existe",
+        "application-success-title": "Postulación enviada",
+        "application-success-message": "Recibimos su postulación al puesto {{jobTitle}}",
+        "application-general-error-message": "Ocurrió este error al enviar su postulación: {{error}}"
+    },
+    "loaders": {
+        "loading-candidate": "Estamos cargando su información como candidato, por favor espere...",
+        "sending-application": "Enviando su postulación, por favor espere...",
+        "loading-jobs": "Estamos cargando los puestos disponibles, por favor espere..."
+    },
+    "errors": {
+        "required-repo": "Your GitHub repository is required"
+    }
+}
