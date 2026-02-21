@@ -1,0 +1,29 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "submit": "Submit"
+    },
+    "home": {
+        "title": "Open Positions"
+    },
+    "jobs": {
+        "repo_placeholder": "https://github.com/your-user/your-repo"
+    },
+    "alerts": {
+        "application-error-title": "Error sending the application",
+        "application-repo-dn-exists-message": "The given repository does not exists",
+        "application-success-title": "Application sent",
+        "application-success-message": "We received your application to {{jobTitle}} role",
+        "application-general-error-message": "This error ocurred during your application to {{jobTitle}} role: {{error}}"
+    },
+    "loaders": {
+        "loading-candidate": "We're loading your information as a candidate, please wait...",
+        "sending-application": "Sending application, please wait...",
+        "loading-jobs": "We're loading available roles, please wait..."
+    },
+    "errors": {
+        "required-repo": "Your GitHub repository is required",
+        "jobs-error": "Error fetching jobs",
+        "candidate-error": "Error fetching candidate data"
+    }
+}
